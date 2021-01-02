@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    freopen("data.txt", "w", stdout);
+    freopenz("data.txt", "w", stdout);
     int N = 1000000;
     cout << N << '\n';
     map<int, bool> m;
