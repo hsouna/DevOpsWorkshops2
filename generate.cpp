@@ -21,7 +21,7 @@ int main(){
         int x = random() / 1000;
         t[i] = x;
         a[i] = m[x];
-        cout << t[i] << '\n';
+        cout << t[i] << '\n';k
     }
 
     freopen("OUT.txt", "w", stdout);
