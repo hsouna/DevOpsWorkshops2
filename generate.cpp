@@ -4,7 +4,7 @@ using namespace std;
 int main(){
     freopen("data.txt", "w", stdout);
     int N = 1000000;
-    xcout << N << '\n';
+    cout << N << '\n';
     map<int, bool> m;
     for(int i = 0; i < N; i++){
         int x = random() / 1000;
